@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Krishna Ronanki
-- 👀 I’m interested in DevOps, Cloud & AI technologies
+- 👀 I’m interested in DevOps, Cloud & Analytics technologies
 - 🌱 I’m currently learning AWS and DevOps concepts.
 - 📫 You can reach me on 9krishnachaitanya@gmail.com
 
