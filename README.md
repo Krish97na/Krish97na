@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Krishna Ronanki
-- 👀 I’m interested in DevOps, Cloud, AI, & Machine Learning technologies
-- 🌱 I’m currently learning Microsoft Azure and related DevOps concepts.
+- 👀 I’m interested in DevOps, Cloud & AI technologies
+- 🌱 I’m currently learning AWS and DevOps concepts.
 - 📫 You can reach me on 9krishnachaitanya@gmail.com
 
 <!---
